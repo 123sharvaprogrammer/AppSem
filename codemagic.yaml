@@ -1,0 +1,5 @@
+orkflows:
+  hello-world:
+    name: Hello world workflow
+    scripts:
+      - echo "Hello World!"
